@@ -1,0 +1,48 @@
+p {
+    font-weight: bold;
+    color: red;
+}
+
+h2 {
+    text-decoration: underline;
+    color: blue;
+}
+.main{
+    border:1px solid green;
+}
+.firstt {
+    font-size: 30px;
+}
+
+.secondd {
+    color: green;
+    font-size: 30px;
+    font-style: italic;
+}
+
+.second {
+    color: red;
+    font-size: 20px;
+}
+
+.third {
+    color: blue;
+    font-weight: bold;
+}
+
+.numberbox {
+    color: red;
+    border: 1px solid red;
+    font-weight: bold;
+}
+.fifth {
+    color: red;
+    font-weight: bold;
+}
+
+.button1 {
+    width:200px;
+    height: 40px;
+    color: green;
+    border: 1px solid green;
+}
